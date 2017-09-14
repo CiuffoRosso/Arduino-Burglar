@@ -1,2 +1,2 @@
 # Arduino-Burglar
-Simple Arduino burglar alert system
+Simple Arduino burglar alarm system
